@@ -9,7 +9,7 @@ apt install git curl -y
 git clone https://github.com/oriza23/GenieACS-alijayanet-
 ```
 ```
-cd genieacs
+cd GenieACS-alijayanet-
 ```
 ```
 chmod +x install.sh && chmod +x darkmode.sh
